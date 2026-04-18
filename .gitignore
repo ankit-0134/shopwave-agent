@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.dist/
+live_progress.json
+agent.log
+audit_log.json
