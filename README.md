@@ -4,7 +4,7 @@
 ---
 
 ## Live Demo
-**[Click here to try the live app](https://your-app.streamlit.app)**
+**[Click here to try the live app](https://shopwave-agent.streamlit.app/)**
 
 ---
 
