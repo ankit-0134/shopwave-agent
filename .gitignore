@@ -5,4 +5,3 @@ venv/
 .dist/
 live_progress.json
 agent.log
-audit_log.json
