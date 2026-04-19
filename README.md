@@ -94,6 +94,7 @@ shopwave-agent/
 │   └── knowledge-base.md
 ├── architecture.png        # Agent architecture diagram
 ├── failure_modes.md        # 5 failure scenarios documented
+├── demo.mp4                # Demo video - all 20 tickets processed
 ├── requirements.txt
 └── README.md
 ```
